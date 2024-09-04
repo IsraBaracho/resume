@@ -6,5 +6,5 @@ module.exports = {
     title: `IsraelResume`,
     siteUrl: `https://www.yourdomain.tld`
   },
-  plugins: ["gatsby-plugin-google-gtag", "gatsby-plugin-sitemap"]
+  plugins: ["gatsby-plugin-sitemap"]
 };
